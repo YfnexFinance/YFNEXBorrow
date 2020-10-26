@@ -1,2 +1,2 @@
-XYFI Collateral Vault Proxy Contract Source Code
+YFNEX Collateral Vault Proxy Contract Source Code
 
